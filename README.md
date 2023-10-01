@@ -19,3 +19,6 @@ Berikut beberapa research questions yang dapat diidentifikasi:
 
 
 ### TEORI KETERKAITAN
+1. Teori Internet of Things (IoT)
+   *Teori dasar tentang IoT dan konsepnya yang berkaitan dengan penghubungan dan komunikasi antara perangkat fisik melalui jaringan. Dalam konteks ini, pemahaman tentang arsitektur dan protokol komunikasi IoT sangat penting.
+   
