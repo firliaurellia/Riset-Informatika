@@ -21,13 +21,13 @@ Berikut beberapa research questions yang dapat diidentifikasi:
 
 
 ### TEORI KETERKAITAN
-1. Internet of Things (IoT)
+1. Teori Internet of Things (IoT)
    * Teori dasar tentang IoT dan konsepnya yang berkaitan dengan penghubungan dan komunikasi antara perangkat fisik melalui jaringan. Dalam konteks ini, pemahaman tentang arsitektur dan protokol komunikasi IoT sangat penting.
-2. Fuzzy Logic
+2. Teori Fuzzy Logic
    * Konsep Fuzzy Logic yang melibatkan pemodelan ketidakpastian dan ketidakjelasan dalam pengukuran dan pengambilan keputusan. Teori ini sangat relevan dalam penggunaan Fuzzy Logic untuk mengontrol dan mengelola kualitas air serta pemberian pakan dalam akuarium.
-3. Sistem Monitoring Berbasis Sensor
+3. Teori Sistem Monitoring Berbasis Sensor
    * Teori dan prinsip dasar terkait dengan penggunaan sensor-sensor dalam sistem monitoring, termasuk jenis-jenis sensor yang digunakan untuk mengukur parameter kualitas air dan penggunaannya dalam aplikasi akuarium.
-4. Sistem Kontrol Otomatis
+4. Teori Sistem Kontrol Otomatis
    * Teori yang berkaitan dengan pengembangan sistem kontrol otomatis, termasuk metode pengendalian dan regulasi yang dapat digunakan untuk menjaga kualitas air dan pemberian pakan ikan secara otomatis dalam akuarium.
-5. Pengolahan Data Sensor
+5. Teori Pengolahan Data Sensor
    * Teori terkait dengan pengumpulan, pengolahan, dan analisis data sensor yang dihasilkan oleh perangkat IoT dalam akuarium. Hal ini penting untuk memahami cara menginterpretasi data dan mengambil tindakan yang diperlukan.
