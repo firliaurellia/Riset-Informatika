@@ -1,5 +1,5 @@
 # Riset-Informatika
 
-Nama  : Firlie Aurellia Az-zahra
-NPM   : 20081010209
-Kelas : D081
+Nama  : Firlie Aurellia Az-zahra <br>
+NPM   : 20081010209 <br>
+Kelas : D081 <br>
