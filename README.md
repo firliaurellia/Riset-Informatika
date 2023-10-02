@@ -5,29 +5,27 @@ NPM   : 20081010209 <br>
 Kelas : D081 <hr>
 
 ### TOPIK PENELITIAN 
-Monitoring Kualitas Air Dan Pakan Ikan Otomatis Pada Akuarium Menggunakan Fuzzy Logic Berbasis Iot
+Perancangan dan Implementasi Website Edukasi Interaktif untuk Pembelajaran Jarak Jauh dengan Menggunakan Metode User-Centered Design (UCD)
 
 ### PERSOALAN PRAKTIS
-  Persoalan praktis yang perlu diselesaikan melalui penelitian tentang "Monitoring Kualitas Air Dan Pakan Ikan Otomatis Pada Akuarium Menggunakan Fuzzy Logic Berbasis IoT" adalah meningkatkan efisiensi dan kualitas pemeliharaan ikan dalam akuarium. Saat ini, pemilik akuarium seringkali menghadapi berbagai tantangan terkait dengan pemantauan dan pengelolaan kualitas air serta pemberian pakan ikan secara manual. Kualitas air yang buruk dapat mengakibatkan stres dan penyakit pada ikan, sementara pemberian pakan yang tidak tepat dapat mempengaruhi pertumbuhan dan kesehatan ikan. Hal ini bisa menjadi permasalahan yang rumit, terutama bagi pemilik yang tidak memiliki pengetahuan mendalam dalam bidang akuakultur.
-
-  Dengan mengembangkan sistem otomatis berbasis IoT yang menggunakan Fuzzy Logic, penelitian ini akan membantu pemilik akuarium dalam memantau dan menjaga kualitas air secara terus-menerus. Selain itu, sistem ini akan memberikan kemudahan dalam mengendalikan pemberian pakan ikan sesuai dengan kebutuhan mereka. Dengan demikian, persoalan praktis yang perlu diselesaikan adalah bagaimana menghadirkan solusi yang otomatis dan cerdas untuk memantau serta mengelola kualitas air dan pemberian pakan dalam akuarium, sehingga ikan dapat hidup dengan lebih sehat dan pemilik dapat merawat mereka dengan lebih efisien.
+  Dalam era pendidikan jarak jauh yang semakin mendominasi, tantangan utama adalah merancang dan mengimplementasikan website edukasi interaktif yang efektif dan sesuai dengan kebutuhan pengguna, yaitu siswa dan guru. Keterlibatan pengguna (user engagement) dan pengalaman pengguna yang baik menjadi perhatian utama, terutama dalam situasi pembelajaran jarak jauh. Tantangan ini meliputi pemahaman yang dalam tentang kebutuhan pengguna, desain yang memenuhi harapan mereka, serta aspek teknis dan metodologi dalam pengembangan website edukasi interaktif. Oleh karena itu, penelitian ini perlu mengatasi persoalan praktis ini melalui penerapan metode User-Centered Design (UCD) untuk merancang solusi yang lebih baik.
 
 ### RESEARCH QUESTIONS
 Berikut beberapa research questions yang dapat diidentifikasi:
-1. Bagaimana sistem berbasis IoT dapat digunakan untuk memantau dan mengendalikan kualitas air dalam akuarium secara otomatis?
-2. Bagaimana penggunaan Fuzzy Logic dalam sistem ini dapat membantu dalam mengambil keputusan terkait perbaikan kualitas air?
-3. Apa saja parameter kualitas air yang harus dimonitor, dan bagaimana cara pengukuran mereka dilakukan secara akurat?
-4. Bagaimana sistem ini dapat memastikan pemberian pakan yang tepat waktu dan sesuai dengan kebutuhan ikan dalam akuarium?
+1. Bagaimana merancang dan mengimplementasikan website edukasi interaktif yang berfokus pada pengguna dengan metode User-Centered Design (UCD)?
+2. Bagaimana mengidentifikasi dan menganalisis kebutuhan pengguna dalam konteks pembelajaran jarak jauh?
+3. Bagaimana mengukur dan meningkatkan pengalaman pengguna pada website edukasi interaktif untuk memaksimalkan keterlibatan siswa dan guru?
+4. Apa strategi terbaik untuk mengintegrasikan umpan balik pengguna dalam siklus pengembangan website edukasi interaktif?
 
 
 ### TEORI KETERKAITAN
-1. Teori Internet of Things (IoT)
-   * Teori dasar tentang IoT dan konsepnya yang berkaitan dengan penghubungan dan komunikasi antara perangkat fisik melalui jaringan. Dalam konteks ini, pemahaman tentang arsitektur dan protokol komunikasi IoT sangat penting.
-2. Teori Fuzzy Logic
-   * Konsep Fuzzy Logic yang melibatkan pemodelan ketidakpastian dan ketidakjelasan dalam pengukuran dan pengambilan keputusan. Teori ini sangat relevan dalam penggunaan Fuzzy Logic untuk mengontrol dan mengelola kualitas air serta pemberian pakan dalam akuarium.
-3. Teori Sistem Monitoring Berbasis Sensor
-   * Teori dan prinsip dasar terkait dengan penggunaan sensor-sensor dalam sistem monitoring, termasuk jenis-jenis sensor yang digunakan untuk mengukur parameter kualitas air dan penggunaannya dalam aplikasi akuarium.
-4. Teori Sistem Kontrol Otomatis
-   * Teori yang berkaitan dengan pengembangan sistem kontrol otomatis, termasuk metode pengendalian dan regulasi yang dapat digunakan untuk menjaga kualitas air dan pemberian pakan ikan secara otomatis dalam akuarium.
-5. Teori Pengolahan Data Sensor
-   * Teori terkait dengan pengumpulan, pengolahan, dan analisis data sensor yang dihasilkan oleh perangkat IoT dalam akuarium. Hal ini penting untuk memahami cara menginterpretasi data dan mengambil tindakan yang diperlukan.
+1. Teori User-Centered Design (UCD)
+   * Memahami prinsip-prinsip dasar UCD, seperti tahapan dalam proses UCD, pengumpulan umpan balik pengguna, dan pengujian pengguna (usability testing).
+2. Teori Pendidikan Jarak Jauh
+   * Menyelidiki teori dan praktik terkait pembelajaran jarak jauh, seperti strategi pembelajaran, interaksi guru-siswa, dan alat-alat pembelajaran online.
+3. Teori Pengumpulan Data Pengguna
+   * Memahami metode pengumpulan data pengguna, seperti survei, wawancara, dan analisis perilaku pengguna, untuk mendapatkan pemahaman yang lebih baik tentang kebutuhan pengguna.
+4. Teori Desain Instruksional
+   * Menggali prinsip-prinsip desain instruksional yang dapat diterapkan dalam pengembangan konten pendidikan yang interaktif.
+5. Teori User Experience - UX
+   * Mempelajari prinsip-prinsip UX dalam desain website untuk menciptakan pengalaman pengguna yang positif dan memuaskan. 
