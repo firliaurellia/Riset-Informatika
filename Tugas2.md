@@ -20,7 +20,7 @@ adalah sekumpulan peraturan, kegiatan, dan prosedur yang digunakan oleh pelaku d
 
 ### Implementasi pada Penelitian
 1. Metodologi
-- Metodologi User-Centered Design (UCD) : Metodologi yang memprioritaskan kebutuhan dan preferensi pengguna dalam perancangan dan pengembangan website edukasi. UCD melibatkan pengumpulan data pengguna, pengembangan persona, prototip, dan pengujian pengguna untuk memastikan desain yang berfokus pada pengguna.
+- Metodologi User-Centered Design (UCD) : Metodologi yang memprioritaskan kebutuhan dan preferensi pengguna dalam perancangan dan pengembangan website edukasi. UCD melibatkan pengumpulan data pengguna, pengembangan persona, prototipe, dan pengujian pengguna untuk memastikan desain yang berfokus pada pengguna.
 
 2. Metode
 - Wawancara : Metode ini dapat digunakan untuk mewawancarai siswa, guru, dan orang tua yang merupakan pengguna potensial website edukasi
