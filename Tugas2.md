@@ -7,9 +7,11 @@ Kelas : D081 <hr>
 ### Contoh Paper yang Menggunakan Metodologi dan Metode 
 1. Metode
 - [Perancangan Sistem Informasi Konsultasi Akademik Berbasis Website](https://www.researchgate.net/profile/Melda-Manuhutu-2/publication/338262592_Perancangan_Sistem_Informasi_Konsultasi_Akademik_Berbasis_Website/links/5e49aac6a6fdccd965ac35f2/Perancangan-Sistem-Informasi-Konsultasi-Akademik-Berbasis-Website.pdf)
+- [Implementasi Waterfalldan Agiledalam Perancangan E-commerceAlat Musik Berbasis Website](https://journal.lembagakita.org/index.php/jtik/article/view/380/pdf)
 
 2. Metodologi
 - [Perancangan UI/UX menggunakan pendekatan HCD (Human-Centered design) pada website Thriftdoor](https://journal.uii.ac.id/AUTOMATA/article/view/15445/10213)
+- [Rancangan dan Implementasi Aplikasi Sewa Lapangan Badminton Wilayah Depok Berbasis Web(https://journal.admi.or.id/index.php/JTS/article/view/108/135)
 
 ### Perbedaan Metode dan Metodologi
 1. Metode
