@@ -11,7 +11,7 @@ Kelas : D081 <hr>
 
 2. Metodologi
 - [Perancangan UI/UX menggunakan pendekatan HCD (Human-Centered design) pada website Thriftdoor](https://journal.uii.ac.id/AUTOMATA/article/view/15445/10213)
-- [Rancangan dan Implementasi Aplikasi Sewa Lapangan Badminton Wilayah Depok Berbasis Web(https://journal.admi.or.id/index.php/JTS/article/view/108/135)
+- [Rancangan dan Implementasi Aplikasi Sewa Lapangan Badminton Wilayah Depok Berbasis Web](https://journal.admi.or.id/index.php/JTS/article/view/108/135)
 
 ### Perbedaan Metode dan Metodologi
 1. Metode
