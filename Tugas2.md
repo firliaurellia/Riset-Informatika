@@ -13,10 +13,10 @@ Kelas : D081 <hr>
 
 ### Perbedaan Metode dan Metodologi
 1. Metode
-Metode adalah prosedur, teknik, langkah, atau cara untuk mencapai suatu tujuan tertentu. Metode berkaitan langsung dengan teknis saja dari keseluruhan yang dibahas dalam metodologi. Selain itu, metode juga berkaitan langsung dengan pengumpulan data.
+adalah prosedur, teknik, langkah, atau cara untuk mencapai suatu tujuan tertentu. Metode berkaitan langsung dengan teknis saja dari keseluruhan yang dibahas dalam metodologi. Selain itu, metode juga berkaitan langsung dengan pengumpulan data.
 
 2. Metodologi
-Metodologi adalah sekumpulan peraturan, kegiatan, dan prosedur yang digunakan oleh pelaku disiplin ilmu. Metodologi mencakup sistem panduan untuk memecahkan persoalan, dengan komponen spesifiknya adalah konsep, preposisi, model, hipotesis, teori, dan metode.
+adalah sekumpulan peraturan, kegiatan, dan prosedur yang digunakan oleh pelaku disiplin ilmu. Metodologi mencakup sistem panduan untuk memecahkan persoalan, dengan komponen spesifiknya adalah konsep, preposisi, model, hipotesis, teori, dan metode.
 
 ### Implementasi pada Penelitian
 1. Metodologi
