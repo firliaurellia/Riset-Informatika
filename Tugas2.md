@@ -18,7 +18,7 @@ Kelas : D081 <hr>
 adalah prosedur, teknik, langkah, atau cara untuk mencapai suatu tujuan tertentu. Metode berkaitan langsung dengan teknis saja dari keseluruhan yang dibahas dalam metodologi. Selain itu, metode juga berkaitan langsung dengan pengumpulan data.
 
 2. Metodologi
-adalah sekumpulan peraturan, kegiatan, dan prosedur yang digunakan oleh pelaku disiplin ilmu. Metodologi mencakup sistem panduan untuk memecahkan persoalan, dengan komponen spesifiknya adalah konsep, preposisi, model, hipotesis, teori, dan metode.
+adalah kerangka atau rencana yang lebih luas yang digunakan oleh peneliti untuk merancang, merencanakan, dan melaksanakan penelitian secara keseluruhan. Ini mencakup pemilihan metode penelitian yang sesuai dengan tujuan penelitian, strategi pengumpulan data, serta analisis dan interpretasi data.
 
 ### Implementasi pada Penelitian
 1. Metodologi
