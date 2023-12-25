@@ -31,7 +31,7 @@ Berikut beberapa research questions yang dapat diidentifikasi:
 5. Teori User Experience - UX
    * Mempelajari prinsip-prinsip UX dalam desain website untuk menciptakan pengalaman pengguna yang positif dan memuaskan. 
 
-### Metode dan Metodologi
+# Metode dan Metodologi
 1. Metodologi
 - Metodologi User-Centered Design (UCD) : Metodologi yang memprioritaskan kebutuhan dan preferensi pengguna dalam perancangan dan pengembangan website edukasi. UCD melibatkan pengumpulan data pengguna, pengembangan persona, prototip, dan pengujian pengguna untuk memastikan desain yang berfokus pada pengguna.
 
