@@ -5,13 +5,13 @@ NPM   : 20081010209 <br>
 Kelas : D081 <hr>
 
 
-### Judul
+# Judul
 Perancangan dan Implementasi Website Edukasi Interaktif untuk Pembelajaran Jarak Jauh dengan Menggunakan Metode User-Centered Design (UCD)
 
-### Penjelasan Singkat
+## Penjelasan Singkat
 Dalam era pendidikan jarak jauh yang semakin mendominasi, tantangan utama adalah merancang dan mengimplementasikan website edukasi interaktif yang efektif dan sesuai dengan kebutuhan pengguna, yaitu siswa dan guru. Keterlibatan pengguna (user engagement) dan pengalaman pengguna yang baik menjadi perhatian utama, terutama dalam situasi pembelajaran jarak jauh. Tantangan ini meliputi pemahaman yang dalam tentang kebutuhan pengguna, desain yang memenuhi harapan mereka, serta aspek teknis dan metodologi dalam pengembangan website edukasi interaktif. Oleh karena itu, penelitian ini perlu mengatasi persoalan praktis ini melalui penerapan metode User-Centered Design (UCD) untuk merancang solusi yang lebih baik.
 
-### Research Question
+## Research Question
 Berikut beberapa research questions yang dapat diidentifikasi:
 
 1. Bagaimana merancang dan mengimplementasikan website edukasi interaktif yang berfokus pada pengguna dengan metode User-Centered Design (UCD)?
@@ -19,7 +19,7 @@ Berikut beberapa research questions yang dapat diidentifikasi:
 3. Bagaimana mengukur dan meningkatkan pengalaman pengguna pada website edukasi interaktif untuk memaksimalkan keterlibatan siswa dan guru?
 4. Apa strategi terbaik untuk mengintegrasikan umpan balik pengguna dalam siklus pengembangan website edukasi interaktif?
 
-### TEORI KETERKAITAN
+## TEORI KETERKAITAN
 1. Teori User-Centered Design (UCD)
    * Memahami prinsip-prinsip dasar UCD, seperti tahapan dalam proses UCD, pengumpulan umpan balik pengguna, dan pengujian pengguna (usability testing).
 2. Teori Pendidikan Jarak Jauh
@@ -31,7 +31,7 @@ Berikut beberapa research questions yang dapat diidentifikasi:
 5. Teori User Experience - UX
    * Mempelajari prinsip-prinsip UX dalam desain website untuk menciptakan pengalaman pengguna yang positif dan memuaskan. 
 
-# Metode dan Metodologi
+## Metode dan Metodologi
 1. Metodologi
 - Metodologi User-Centered Design (UCD) : Metodologi yang memprioritaskan kebutuhan dan preferensi pengguna dalam perancangan dan pengembangan website edukasi. UCD melibatkan pengumpulan data pengguna, pengembangan persona, prototip, dan pengujian pengguna untuk memastikan desain yang berfokus pada pengguna.
 
