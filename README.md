@@ -70,3 +70,6 @@ Dataset yang digunakan pada Perancangan dan Implementasi Website Edukasi Interak
 - https://ejurnal.ars.ac.id/index.php/jti/article/view/647/473
 - https://ejurnal.seminar-id.com/index.php/bits/article/view/1098/739
 - https://ejournal.upnvj.ac.id/jsia/article/view/6444
+
+## Evaluasi
+Penelitian ini menerapkan metode User-Centered Design (UCD) dalam merancang dan mengimplementasikan sebuah website edukasi interaktif untuk pembelajaran jarak jauh. Evaluasi dilakukan melalui berbagai pendekatan, termasuk usability testing, wawancara dengan pengguna, survei kepuasan pengguna, pemantauan kinerja teknis, dan analisis metrik pengguna. Proses ini bertujuan untuk memastikan bahwa website tidak hanya memenuhi kebutuhan pengguna, tetapi juga memberikan pengalaman pembelajaran yang efektif dan memuaskan. Hasil dari evaluasi tersebut digunakan untuk menginformasikan iterasi desain dan perbaikan berkelanjutan, menciptakan siklus umpan balik antara pengguna dan pengembang sehingga website dapat terus disesuaikan dengan kebutuhan pengguna dan perkembangan teknologi.
